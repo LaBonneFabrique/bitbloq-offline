@@ -1,0 +1,5 @@
+création bloqs
+  ajout dossier teensy32 et composant
+création nouveau tableau composant : touchpads dans bloqs-utils.js
+MODIF APP:RES:PROPERTIES;JSON POUR ajouter teensyTouchPad
+  modif de app/res/hw.json pour ajout touchpad
