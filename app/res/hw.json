@@ -631,7 +631,7 @@
                 "uid": "nano-serial-port"
             }]
         }
-    },{
+    }, {
         "name": "Teensy 3.2",
         "id": "teensy31",
         "mcu": "teensy31",
