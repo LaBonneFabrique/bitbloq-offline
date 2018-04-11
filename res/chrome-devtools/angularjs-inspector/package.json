@@ -8,6 +8,6 @@
     "grunt-release": "https://github.com/btford/grunt-release/archive/feat-tag-name.tar.gz",
     "marked": "~> 0.3.9",
     "grunt-zip": "~0.7.0",
-    "semver": "~1.1.4"
+    "semver": "~>4.3.2"
   }
 }
